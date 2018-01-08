@@ -6,7 +6,7 @@ Tianshu is a passionate young visual content creator, director, and playwright, 
 
 # WORKS
 ## 2018
-A WELL 2.0 | Chicago Rhino Fest | Jan 21
+<p>A WELL 2.0 | Chicago Rhino Fest | Jan 21</p>
 
 ## 2017
 <p>A WELL 1.0 | Armory Theatre | Dec 8 & 9</p>
@@ -25,3 +25,16 @@ A WELL 2.0 | Chicago Rhino Fest | Jan 21
 <p>THE SWAN LAKE 天鹅湖 | Beijing No.2 Experimental Primary School, Chaoyang 北京实验二小朝阳分校 | Dec</p>
 <p>THE SERVANT OF TWO MASTERS | Bayi Theatre, Beijing | Nov-Dec</p>
 <p>ALL FOR CATHERINE | Peking University, Beijing | Jun</p>
+
+
+## SELECTED PHOTOGRAPHIC WORKS
+## SELECTED PLAYWRITING WORKS
+<p>THE SECOND GIRL: OR BOBA, MILK, TEA | <em>full</em></p>
+<p>WHO’S SITTING THERE? (Chinese, 谁坐在那儿？) | <em>full</em></p>
+<p>WHATEVER HELPS YOU SLEEP AT NIGHT | <em>one-act</em></p>
+<p>A MALCOLM’S NIGHTMARE | <em>one-act</em></p>
+<p>IT COMES A FULL CIRCLE | <em>ten-minute</em></p>
+<p>MIND OVER MATTER | <em>ten-minute</em></p>
+<p></p>
+
+# BLOG
