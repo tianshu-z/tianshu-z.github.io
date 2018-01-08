@@ -48,4 +48,6 @@
 <p>MIND OVER MATTER | <em>ten-minute</em></p>
 <p>BARD [1]: TANA, THE ORIGIN OF BLUE NILE | <em>a video game design</em></p>
 
-# BLOG
+# PHOTOGRAPHY
+# WRITINGS
+# BLOGS
