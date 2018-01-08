@@ -6,7 +6,8 @@ Tianshu is a passionate young visual content creator, director, and playwright, 
 
 # WORKS
 ## 2018
-<p>A WELL 2.0 | Chicago Rhino Fest | Jan 21</p>
+#### A WELL 2.0
+| Chicago Rhino Fest | Jan 21
 
 ## 2017
 <p>A WELL 1.0 | Armory Theatre | Dec 8 & 9</p>
