@@ -2,8 +2,8 @@
 
 ## [WORKS](https://tianshu-z.github.io/WORKS/)
 
-## PHOTOGRAPHY
+## [PHOTOGRAPHY](https://tianshu-z.github.io/PHOTOHRAPHY/)
 
 ## [WRITINGS](https://tianshu-z.github.io/WRITINGS/)
 
-## BLOGS
+## [BLOGS](https://tianshu-z.github.io/BLOGS/)
