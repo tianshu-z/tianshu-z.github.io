@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @tianshu-z
- Sign out
- Watch 0
-  Star 0  Fork 0 MandyZChen/MandyZChen.github.io
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-Branch: master Find file Copy pathMandyZChen.github.io/index.xml
-fcb95a5  on Oct 5, 2017
-@mandychan101 mandychan101 rebuilding site Thu Oct 5 21:02:22 PDT 2017
-1 contributor
-RawBlameHistory     
-81 lines (65 sloc)  3.02 KB
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -96,15 +78,3 @@ RawBlameHistory
     
   </channel>
 </rss>
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
