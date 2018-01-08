@@ -1,8 +1,7 @@
 ## [BIOGRAPHY](https://tianshu-z.github.io/BIOGRAPHY/)
+## [WORKS](https://tianshu-z.github.io/WORKS/)
 
 
-
-# WORKS
 ## 2018
 <p>A WELL 2.0 | Chicago Rhino Fest | Jan 21</p>
 <p>NATIONAL CALL FOR SCRIPTS 2018: SOCIAL JUSTICE AS ENVIRONMENTAL JUSITICE | INNER VOICES Social Issues Theatre | 2017-2018</p>
