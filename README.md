@@ -2,8 +2,8 @@
 
 ## [BIOGRAPHY](https://tianshu-z.github.io/BIOGRAPHY/)
 
-## [WORKS](https://tianshu-z.github.io/WORKS/)
+## [WORK](https://tianshu-z.github.io/WORK/)
 
-## [WRITINGS](https://tianshu-z.github.io/WRITINGS/)
+## [WRITING](https://tianshu-z.github.io/WRITING/)
 
-## [BLOGS](https://tianshu-z.github.io/BLOGS/)
+## [BLOG](https://tianshu-z.github.io/BLOG/)
