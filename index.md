@@ -1,14 +1,7 @@
-## [BIOGRAPHY](https://tianshu-z.github.io/BIOGRAPHY/)
-
-
 ## [BIOGRAPHY](biography.html)
 
+## [WORK](work.html)
 
-<li><a href="biography.html">BIOGRAPHY</a></li>
+## [WRITING](writing.html)
 
-
-## [WORK](https://tianshu-z.github.io/WORK/)
-
-## [WRITING](https://tianshu-z.github.io/WRITING/)
-
-## [BLOG](https://tianshu-z.github.io/BLOG/)
+## [BLOG](blog.html)
