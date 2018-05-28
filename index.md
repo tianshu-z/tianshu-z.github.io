@@ -1,6 +1,9 @@
 ## [BIOGRAPHY](https://tianshu-z.github.io/BIOGRAPHY/)
 
 
+## [BIOGRAPHY](biography.html)
+
+
 <li><a href="biography.html">BIOGRAPHY</a></li>
 
 
