@@ -49,7 +49,6 @@ layout: default
   <p>Lighting/Projection Designer: Tianshu Zhao</p>
   <p>Costume Designer: Auda Sakho</p>
   <p>with Michael Giorgio, Michael A. Green, Robert Homeyer, Michael Neal Johnson, Jessica Lorion, David Shakopi</p>
-  
 </head>
 
 <br>
@@ -64,11 +63,13 @@ layout: default
                  <img src="https://raw.githubusercontent.com/tianshu-z/tianshu-z.github.io/master/img/2019/sign-in-the-6-oclock-sky/1.%20prototype%20with%20Arduino%20and%20Sketch.png" class="image">
           </div>
      </div>
+     
      <div class="column">
           <div class="container">
                  <img src="https://raw.githubusercontent.com/tianshu-z/tianshu-z.github.io/master/img/2019/sign-in-the-6-oclock-sky/3.%20Advatek%204%20channel%20outputs.jpg" class="image">
           </div>
      </div>
+     
      <div class="column">
           <div class="container">
                  <img src="https://raw.githubusercontent.com/tianshu-z/tianshu-z.github.io/master/img/2019/sign-in-the-6-oclock-sky/4.%20mounting%20the%20power%20and%20control%20station%20in%20theatre.jpg" class="image">
@@ -81,6 +82,7 @@ layout: default
           </div>
      </div>
      
+     <br>
      <p> Production Photos </p>
      
      <div class="column">
@@ -101,8 +103,11 @@ layout: default
           </div>
      </div>
      
+     <br>
      <p>The Inhuman Humans idea that I dumped last minute</p>
      <iframe width="560" height="315" src="https://www.youtube.com/embed/y-gnHaQVKAM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      <p class="clear">
-
+     
+     </body>
+     
 </html>
