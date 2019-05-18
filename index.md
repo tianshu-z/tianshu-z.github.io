@@ -7,7 +7,8 @@
 ## [WRITING](writing.html)
 
 
-
+<br>
+<br>
 
 <p>Hello, feel free to <a href = "https://tianshu-z.github.io/biography.html"><u>get in touch</u></a> about any design projects!</p>
     
