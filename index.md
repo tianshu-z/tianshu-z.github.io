@@ -14,6 +14,6 @@
     
 <p>I have weekly updates on my <a href = "https://soundcloud.com/zoe-zhao-676421317/sets/machine-or-i"><i><u>machine-and-i</u></i></a> album using machine learning algorithm. I called it <i><u>machine-or-i</u></i> in the first place, but thought <i><u>machine-and-i</u></i> was more appropriate.</p>
 
-Her recent projects can be found on <a href="https://tianshu-z.github.io/work.html">here</a>.
+My recent projects can be found on <a href="https://tianshu-z.github.io/work.html">here</a>.
 
-<p>Currently, Tianshu works for the <a href="https://ccam.yale.edu"> Center for Collaborative Arts and Media (CCAM)</a> at Yale University.</p>
+<p>Currently, I work for the <a href="https://ccam.yale.edu"> Center for Collaborative Arts and Media (CCAM)</a> at Yale University.</p>
