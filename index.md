@@ -16,4 +16,4 @@
 
 My recent projects can be found on <a href="https://tianshu-z.github.io/work.html">here</a>.
 
-<p>Currently, I work for the <a href="https://ccam.yale.edu"> Center for Collaborative Arts and Media (CCAM)</a> at Yale University.</p>
+<p>Currently, I work for the <a href="https://ccam.yale.edu"> Center for Collaborative Arts and Media (CCAM)</a> at Yale University. The <a href = "https://www.ieee-gem.space/">2019 IEEE Games Entertainment & Media Conference</a> will be hosted here at Yale CCAM this summer from June 19th - 22nd. You will see me here.</p>
