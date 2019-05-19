@@ -18,4 +18,4 @@ My recent projects can be found on <a href="https://tianshu-z.github.io/work.htm
 
 <p>Currently, I work for the <a href="https://ccam.yale.edu"> Center for Collaborative Arts and Media (CCAM)</a> at Yale University. The <a href = "https://www.ieee-gem.space/">2019 IEEE Games Entertainment & Media Conference</a> will be hosted here at Yale CCAM this summer from June 19th - 22nd. You will see me here.</p>
 
-<p>Vicon MoCap Suit Instruction: gentle wash, cold water, and air dry. <i>(There's literally no documentation for this. So I called the Vicon LA office. The technical support answered comically "that's REALLY a good question, let me confirm with others." Seriously, nobody cares about how to clean sweaty gross velcro suits?)</i></p>
+<p><u>Vicon MoCap Suit Instruction: gentle wash, cold water, and air dry.</u> <i>(There's literally no documentation for this. So I called the Vicon LA office. The technical support answered comically "that's REALLY a good question, let me confirm with others." Seriously, nobody cares about how to clean sweaty gross velcro suits?)</i></p>
