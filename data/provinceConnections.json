@@ -1,0 +1,599 @@
+{
+  "nodes": [
+  {
+    "id": 0,
+    "Province Name": "河北",
+    "Shorthand": "冀",
+    "Population(万人)": 7556.3,
+    "Size(万平方千米)": 18.88,
+    "aGDP": 47772,
+    "code": "hb"
+  },
+  {
+    "id": 1,
+    "Province Name": "山西",
+    "Shorthand": "晋",
+    "Population(万人)": 3718.34,
+    "Size(万平方千米)": 15.67,
+    "aGDP": 45328,
+    "code": "sx"
+  },
+  {
+    "id": 2,
+    "Province Name": "吉林",
+    "Shorthand": "吉",
+    "Population(万人)": 2704.06,
+    "Size(万平方千米)": 18.74,
+    "aGDP": 55611,
+    "code": "jl"
+  },
+  {
+    "id": 3,
+    "Province Name": "辽宁",
+    "Shorthand": "辽",
+    "Population(万人)": 4368.9,
+    "Size(万平方千米)": 14.8,
+    "aGDP": 54745,
+    "code": "ln"
+  },
+  {
+    "id": 4,
+    "Province Name": "黑龙江",
+    "Shorthand": "黑",
+    "Population(万人)": 3773.1,
+    "Size(万平方千米)": 47.3,
+    "aGDP": 43274,
+    "code": "hlj"
+  },
+  {
+    "id": 5,
+    "Province Name": "陕西",
+    "Shorthand": "秦",
+    "Population(万人)": 3864.4,
+    "Size(万平方千米)": 20.56,
+    "aGDP": 63477,
+    "code": "shx"
+  },
+  {
+    "id": 6,
+    "Province Name": "甘肃",
+    "Shorthand": "陇",
+    "Population(万人)": 2637.26,
+    "Size(万平方千米)": 42.59,
+    "aGDP": 31336,
+    "code": "gs"
+  },
+  {
+    "id": 7,
+    "Province Name": "青海",
+    "Shorthand": "青",
+    "Population(万人)": 603.23,
+    "Size(万平方千米)": 72.23,
+    "aGDP": 47689,
+    "code": "qh"
+  },
+  {
+    "id": 8,
+    "Province Name": "山东",
+    "Shorthand": "鲁",
+    "Population(万人)": 10047.24,
+    "Size(万平方千米)": 15.71,
+    "aGDP": 76267,
+    "code": "sd"
+  },
+  {
+    "id": 9,
+    "Province Name": "福建",
+    "Shorthand": "闽",
+    "Population(万人)": 3941,
+    "Size(万平方千米)": 12.4,
+    "aGDP": 91197,
+    "code": "fj"
+  },
+  {
+    "id": 10,
+    "Province Name": "浙江",
+    "Shorthand": "浙",
+    "Population(万人)": 5737,
+    "Size(万平方千米)": 10.55,
+    "aGDP": 98643,
+    "code": "zj"
+  },
+  {
+    "id": 11,
+    "Province Name": "台湾",
+    "Shorthand": "台",
+    "Population(万人)": 2358,
+    "Size(万平方千米)": 3.62,
+    "aGDP": 165400,
+    "code": "tw"
+  },
+  {
+    "id": 12,
+    "Province Name": "河南",
+    "Shorthand": "豫",
+    "Population(万人)": 9605,
+    "Size(万平方千米)": 16.7,
+    "aGDP": 50152,
+    "code": "hn"
+  },
+  {
+    "id": 13,
+    "Province Name": "湖北",
+    "Shorthand": "鄂",
+    "Population(万人)": 5917,
+    "Size(万平方千米)": 18.59,
+    "aGDP": 66531,
+    "code": "hb"
+  },
+  {
+    "id": 14,
+    "Province Name": "湖南",
+    "Shorthand": "湘",
+    "Population(万人)": 6898.8,
+    "Size(万平方千米)": 21.18,
+    "aGDP": 52949,
+    "code": "hun"
+  },
+  {
+    "id": 15,
+    "Province Name": "江西",
+    "Shorthand": "赣",
+    "Population(万人)": 4847.6,
+    "Size(万平方千米)": 16.7,
+    "aGDP": 47304,
+    "code": "jx"
+  },
+  {
+    "id": 16,
+    "Province Name": "江苏",
+    "Shorthand": "苏",
+    "Population(万人)": 8050.7,
+    "Size(万平方千米)": 10.72,
+    "aGDP": 115168,
+    "code": "js"
+  },
+  {
+    "id": 17,
+    "Province Name": "安徽",
+    "Shorthand": "皖",
+    "Population(万人)": 6323.6,
+    "Size(万平方千米)": 14.01,
+    "aGDP": 47712,
+    "code": "ah"
+  },
+  {
+    "id": 18,
+    "Province Name": "广东",
+    "Shorthand": "粤",
+    "Population(万人)": 11346,
+    "Size(万平方千米)": 17.97,
+    "aGDP": 86412,
+    "code": "gd"
+  },
+  {
+    "id": 19,
+    "Province Name": "海南",
+    "Shorthand": "琼",
+    "Population(万人)": 934.32,
+    "Size(万平方千米)": 3.39,
+    "aGDP": 51955,
+    "code": "han"
+  },
+  {
+    "id": 20,
+    "Province Name": "四川",
+    "Shorthand": "蜀",
+    "Population(万人)": 8341,
+    "Size(万平方千米)": 48.6,
+    "aGDP": 44651,
+    "code": "sc"
+  },
+  {
+    "id": 21,
+    "Province Name": "贵州",
+    "Shorthand": "贵",
+    "Population(万人)": 3600,
+    "Size(万平方千米)": 17.6,
+    "aGDP": 41244,
+    "code": "gz"
+  },
+  {
+    "id": 22,
+    "Province Name": "云南",
+    "Shorthand": "滇",
+    "Population(万人)": 4829.5,
+    "Size(万平方千米)": 39.4,
+    "aGDP": 37136,
+    "code": "yn"
+  },
+  {
+    "id": 23,
+    "Province Name": "北京",
+    "Shorthand": "京",
+    "Population(万人)": 2154.2,
+    "Size(万平方千米)": 1.64,
+    "aGDP": 140000,
+    "code": "bj"
+  },
+  {
+    "id": 24,
+    "Province Name": "上海",
+    "Shorthand": "沪",
+    "Population(万人)": 2423.78,
+    "Size(万平方千米)": 0.63,
+    "aGDP": 135000,
+    "code": "sh"
+  },
+  {
+    "id": 25,
+    "Province Name": "天津",
+    "Shorthand": "津",
+    "Population(万人)": 1559.6,
+    "Size(万平方千米)": 1.19,
+    "aGDP": 120000,
+    "code": "tj"
+  },
+  {
+    "id": 26,
+    "Province Name": "重庆",
+    "Shorthand": "渝",
+    "Population(万人)": 3101.79,
+    "Size(万平方千米)": 8.24,
+    "aGDP": 65933,
+    "code": "cq"
+  },
+  {
+    "id": 27,
+    "Province Name": "内蒙古自治区",
+    "Shorthand": "蒙",
+    "Population(万人)": 2470.6,
+    "Size(万平方千米)": 118.3,
+    "aGDP": 63786,
+    "code": "nmg"
+  },
+  {
+    "id": 28,
+    "Province Name": "新疆维吾尔自治区",
+    "Shorthand": "新",
+    "Population(万人)": 2486.76,
+    "Size(万平方千米)": 166,
+    "aGDP": 40607,
+    "code": "xj"
+  },
+  {
+    "id": 29,
+    "Province Name": "宁夏回族自治区",
+    "Shorthand": "宁",
+    "Population(万人)": 688.11,
+    "Size(万平方千米)": 6.64,
+    "aGDP": 53846,
+    "code": "nx"
+  },
+  {
+    "id": 30,
+    "Province Name": "广西壮族自治区",
+    "Shorthand": "桂",
+    "Population(万人)": 4926,
+    "Size(万平方千米)": 23.76,
+    "aGDP": 41489,
+    "code": "gx"
+  },
+  {
+    "id": 31,
+    "Province Name": "西藏自治区",
+    "Shorthand": "藏",
+    "Population(万人)": 343.83,
+    "Size(万平方千米)": 120.22,
+    "aGDP": 42976,
+    "code": "xz"
+  },
+  {
+    "id": 32,
+    "Province Name": "香港",
+    "Shorthand": "港",
+    "Population(万人)": 748.25,
+    "Size(万平方千米)": 0.11,
+    "aGDP": 335000,
+    "code": "hk"
+  },
+  {
+    "id": 33,
+    "Province Name": "澳门",
+    "Shorthand": "澳",
+    "Population(万人)": 63.16,
+    "Size(万平方千米)": 0.0033,
+    "aGDP": 596000,
+    "code": "mc"
+  }
+],
+
+"links": [
+  {
+    "target": 1,
+    "source": 0
+  },
+  {
+    "target": 3,
+    "source": 0
+  },
+  {
+    "target": 8,
+    "source": 0
+  },
+  {
+    "target": 12,
+    "source": 0
+  },
+  {
+    "target": 23,
+    "source": 0
+  },
+  {
+    "target": 25,
+    "source": 0
+  },
+  {
+    "target": 27,
+    "source": 0
+  },
+  {
+    "target": 5,
+    "source": 1
+  },
+  {
+    "target": 12,
+    "source": 1
+  },
+  {
+    "target": 27,
+    "source": 1
+  },
+  {
+    "target": 3,
+    "source": 2
+  },
+  {
+    "target": 4,
+    "source": 2
+  },
+  {
+    "target": 27,
+    "source": 2
+  },
+  {
+    "target": 23,
+    "source": 3
+  },
+  {
+    "target": 27,
+    "source": 3
+  },
+  {
+    "target": 27,
+    "source": 4
+  },
+  {
+    "target": 6,
+    "source": 5
+  },
+  {
+    "target": 12,
+    "source": 5
+  },
+  {
+    "target": 13,
+    "source": 5
+  },
+  {
+    "target": 20,
+    "source": 5
+  },
+  {
+    "target": 26,
+    "source": 5
+  },
+  {
+    "target": 27,
+    "source": 5
+  },
+  {
+    "target": 29,
+    "source": 5
+  },
+  {
+    "target": 7,
+    "source": 6
+  },
+  {
+    "target": 20,
+    "source": 6
+  },
+  {
+    "target": 27,
+    "source": 6
+  },
+  {
+    "target": 28,
+    "source": 6
+  },
+  {
+    "target": 29,
+    "source": 6
+  },
+  {
+    "target": 20,
+    "source": 7
+  },
+  {
+    "target": 28,
+    "source": 7
+  },
+  {
+    "target": 31,
+    "source": 7
+  },
+  {
+    "target": 12,
+    "source": 8
+  },
+  {
+    "target": 16,
+    "source": 8
+  },
+  {
+    "target": 17,
+    "source": 8
+  },
+  {
+    "target": 10,
+    "source": 9
+  },
+  {
+    "target": 15,
+    "source": 9
+  },
+  {
+    "target": 18,
+    "source": 9
+  },
+  {
+    "target": 15,
+    "source": 10
+  },
+  {
+    "target": 16,
+    "source": 10
+  },
+  {
+    "target": 17,
+    "source": 10
+  },
+  {
+    "target": 24,
+    "source": 10
+  },
+  {
+    "target": 13,
+    "source": 12
+  },
+  {
+    "target": 17,
+    "source": 12
+  },
+  {
+    "target": 15,
+    "source": 13
+  },
+  {
+    "target": 17,
+    "source": 13
+  },
+  {
+    "target": 14,
+    "source": 13
+  },
+  {
+    "target": 26,
+    "source": 13
+  },
+  {
+    "target": 15,
+    "source": 14
+  },
+  {
+    "target": 18,
+    "source": 14
+  },
+  {
+    "target": 21,
+    "source": 14
+  },
+  {
+    "target": 26,
+    "source": 14
+  },
+  {
+    "target": 30,
+    "source": 14
+  },
+  {
+    "target": 17,
+    "source": 15
+  },
+  {
+    "target": 18,
+    "source": 15
+  },
+  {
+    "target": 17,
+    "source": 16
+  },
+  {
+    "target": 24,
+    "source": 16
+  },
+  {
+    "target": 30,
+    "source": 18
+  },
+  {
+    "target": 32,
+    "source": 18
+  },
+  {
+    "target": 33,
+    "source": 18
+  },
+  {
+    "target": 21,
+    "source": 20
+  },
+  {
+    "target": 22,
+    "source": 20
+  },
+  {
+    "target": 26,
+    "source": 20
+  },
+  {
+    "target": 31,
+    "source": 20
+  },
+  {
+    "target": 22,
+    "source": 21
+  },
+  {
+    "target": 26,
+    "source": 21
+  },
+  {
+    "target": 30,
+    "source": 21
+  },
+  {
+    "target": 30,
+    "source": 22
+  },
+  {
+    "target": 31,
+    "source": 22
+  },
+  {
+    "target": 25,
+    "source": 23
+  },
+  {
+    "target": 29,
+    "source": 27
+  },
+  {
+    "target": 31,
+    "source": 28
+  }
+]
+}
+
+
