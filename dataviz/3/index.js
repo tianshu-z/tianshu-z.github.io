@@ -1,3 +1,4 @@
+
 var table = new Array(13);
 items_relation = [];
 items_de = [0,0];
