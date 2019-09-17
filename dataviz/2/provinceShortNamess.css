@@ -1,0 +1,46 @@
+.flag {
+	width: 30px;
+	height: 30px;
+  	position: absolute;
+	background: url(https://raw.githubusercontent.com/tianshu-z/DataViz_interactiveNetwork_Chinese-Province-Connectivity-and-GDP-per-capita/master/data/provinceShort-01.png) no-repeat;
+}
+
+.flag.flag-hb {background-position: 0 0}
+.flag.flag-sx {background-position: -30px 0}
+.flag.flag-jl {background-position: -60px 0}
+.flag.flag-ln {background-position: -90px 0}
+.flag.flag-hlj {background-position: -120px 0}
+.flag.flag-shx {background-position: -150px 0}
+
+.flag.flag-gs {background-position: 0 -30px}
+.flag.flag-qh {background-position: -30px -30px}
+.flag.flag-sd {background-position: -60px -30px}
+.flag.flag-fj {background-position: -90px -30px}
+.flag.flag-zj {background-position: -120px -30px}
+.flag.flag-tw {background-position: -150px -30px}
+
+.flag.flag-hn {background-position: 0 -60px}
+.flag.flag-hb {background-position: -30px -60px}
+.flag.flag-hun {background-position: -60px -60px}
+.flag.flag-jx {background-position: -90px -60px}
+.flag.flag-js {background-position: -120px -60px}
+.flag.flag-ah {background-position: -150px -60px}
+
+.flag.flag-gd {background-position: 0 -90px}
+.flag.flag-han {background-position: -30px -90px}
+.flag.flag-sc {background-position: -60px -90px}
+.flag.flag-gz {background-position: -90px -90px}
+.flag.flag-yn {background-position: -120px -90px}
+.flag.flag-bj {background-position: -150px -90px}
+
+.flag.flag-sh {background-position: 0 -120px}
+.flag.flag-tj {background-position: -30px -120px}
+.flag.flag-cq {background-position: -60px -120px}
+.flag.flag-nmg {background-position: -90px -120px}
+.flag.flag-xj {background-position: -120px -120px}
+.flag.flag-nx {background-position: -150px -120px}
+
+.flag.flag-gx {background-position: 0 -150px}
+.flag.flag-xz {background-position: -30px -150px}
+.flag.flag-hk {background-position: -60px -150px}
+.flag.flag-mc {background-position: -90px -150px}
