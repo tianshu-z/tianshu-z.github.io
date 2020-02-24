@@ -20,7 +20,7 @@ My recent projects can be found on <a href="https://tianshu-z.github.io/work.htm
 
 
 
-<p>Bye bye, <a href="https://ccam.yale.edu"> Yale Center for Collaborative Arts and Media (CCAM)</a>. See you in the next Chapter. -- July 29, 2019<p>
+<p><strong>July 29, 2019</strong>Bye bye, <a href="https://ccam.yale.edu"> Yale Center for Collaborative Arts and Media (CCAM)</a>. See you in the next Chapter.<p>
 
 
 
