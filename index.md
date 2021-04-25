@@ -10,8 +10,6 @@
 <br>
 <br>
 
-<p>Hello, feel free to <a href = "https://tianshu-z.github.io/biography.html"><u>get in touch</u></a> about any design projects!</p>
-
 <p><strong>April 5, 2021</strong> | Important new chapter - entered the crypto-world. People are brilliant and supportive.</p>
 
 <p><strong>Feb 24, 2020</strong> | I have not been working on my composition experiments at all since I was relocated in China. However, due to the coronavirus outbreak in China, I started to write science articles under the supervision of my uncle. He's great! This is the least I could do to play my part in the society.</p>
