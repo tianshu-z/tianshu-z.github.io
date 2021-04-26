@@ -21,4 +21,4 @@
 
 
 
-<p><u><a href = "https://www.vicon.com/">Vicon</a> MoCap Suit Instruction: gentle wash, cold water, and air dry.</u> No need to dry clean. </p>
+<p>Vicon MoCap Suit Instruction: gentle wash, cold water, and air dry. No need to dry clean. </p>
