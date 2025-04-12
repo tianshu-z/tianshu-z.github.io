@@ -1,28 +1,202 @@
----
-layout: default
----
-
 <!doctype html>
-<html>
-  
+<html lang="en">
   <head>
     <title>BIOGRAPHY | TIANSHU ZHAO</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn more about Tianshu Zhao, an expert in interaction design, neuroscience, generative design, motion capture, MR, machine learning, arduino, and Python.">
+    <meta name="keywords" content="Tianshu Zhao, interaction design, neuroscience, generative design, motion capture, MR, machine learning, arduino, Python">
+    <meta name="author" content="Tianshu Zhao">
+    <meta name="robots" content="index, follow">
+    <style>
+      :root {
+        --text-color: #333;
+        --bg-color: white;
+        --link-color: #666;
+      }
+
+      body {
+        font-family: 'Helvetica Neue', Arial, sans-serif;
+        line-height: 1.6;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background: var(--bg-color);
+        color: var(--text-color);
+        font-size: 14px;
+      }
+
+      .nav-menu {
+        margin: 20px 0 40px;
+        font-size: 16px;
+      }
+
+      .nav-menu a {
+        margin-right: 20px;
+        text-decoration: none;
+        color: var(--link-color);
+      }
+
+      .nav-menu a.current {
+        color: #000;
+        font-weight: bold;
+      }
+
+      .section {
+        margin: 30px 0;
+      }
+
+      .education {
+        color: #666;
+        font-style: italic;
+        margin: 20px 0;
+      }
+
+      .social-links {
+        margin: 20px 0;
+      }
+
+      .social-links a {
+        margin-right: 15px;
+        text-decoration: underline;
+        color: #000;
+      }
+
+      .podcast-container {
+        display: flex;
+        align-items: stretch;
+        gap: 20px;
+      }
+
+      .podcast-section {
+        margin-top: 30px;
+        padding: 20px;
+        border: 1px solid #eee;
+        flex: 1;
+      }
+
+      .podcast-section li {
+        list-style-type: disc;
+        margin: 5px 0;
+        font-size: 0.9em;
+        margin-left: 15px;
+        color: var(--link-color);
+      }
+
+      .podcast-section li a {
+        color: var(--link-color);
+        text-decoration: none;
+      }
+
+      .podcast-section li::marker {
+        font-size: 0.8em;
+      }
+
+      .podcast-images {
+        display: flex;
+        gap: 10px;
+        margin-top: 30px;
+      }
+
+      .podcast-images img {
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+      }
+
+      .podcast-title {
+        font-size: 1em;
+        color: #000;
+        font-weight: normal;
+        display: block;
+        margin-bottom: 10px;
+      }
+
+      .podcast-section a {
+        color: var(--link-color);
+        text-decoration: none;
+      }
+
+      .podcast-section a:hover {
+        text-decoration: underline;
+      }
+
+      @media (max-width: 600px) {
+        .podcast-container {
+          flex-direction: column;
+        }
+        
+        .podcast-images {
+          flex-direction: row;
+          justify-content: center;
+        }
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --text-color: #f0f0f0;
+          --bg-color: #1a1a1a;
+          --link-color: #999;
+        }
+        
+        .nav-menu a.current {
+          color: #fff;
+        }
+
+        .podcast-title {
+          color: #fff;
+        }
+
+        .social-links a {
+          color: #fff;
+        }
+
+        .podcast-section {
+          border-color: #333;
+        }
+      }
+    </style>
   </head>
- 
-  <body>
   
-  <br>
-    <h2>BIOGRAPHY</h2>
-  <br>
-    
-    I have been exploring and researching utilizing algorithms to gamify and revolutionize innovative processes, thus enhancing a better understanding of the human-machine relationship. An essential question that runs through my work is how we can support projects that address meaningful social causes through better design. Using data mining and gamification, I hope to create physical and emotional interfaces and spaces for people to be engaged in a meaningful communal experience.  <br>
-      <br>
-    <i>interaction design, neuroscience, generative design, motion capture, MR, machine learning, arduino, Python.</i>   
-    <br>
-    <br>
+  <body>
+    <header>
+      <nav class="nav-menu">
+        <a href="/">Home</a>
+        <a href="/biography.html" class="current">Biography</a>
+        <a href="/work.html">Work</a>
+        <a href="/writing.html">Writing</a>
+      </nav>
+    </header>
 
-<a href="https://www.linkedin.com/in/tianshu-zhao-60348766/"><strong>LinkedIn</strong></a> | <a href="https://www.instagram.com/zoe_zhao17"><strong>Instagram</strong></a> | <a href = "https://soundcloud.com/you/tracks"><strong>SoundCloud</strong></a> | <a href = "https://github.com/tianshu-z"><strong>GitHub</strong></a>
-<br><strong>Email</strong> | tianshu[dot]zhao17[at]gmail[dot]com
+    <main>
+      <div class="section">
+        <h2>BIOGRAPHY</h2>
+        <p>My professional focus is entertainment and arts management. I have been exploring and researching the intersection of technology and arts/media. An essential question that runs through my practice is how to use technology to support meaningful cultural and artistic expression.</p>
+        <p>我的领域是娱乐和艺术管理，我一直在探索技术与艺术/媒体/文化的交集。我工作中的核心关注点是如何使用技术支持有意义的文化和艺术表达。</p>
+        <p class="education">Peking University 北京大学, University of Illinois Urbana-Champaign, MIT, Yale</p>
+      </div>
+    </main>
 
+    <footer class="section">
+      <div class="social-links">
+        <a href="https://www.linkedin.com/in/tianshu-zhao-60348766/"><strong>LinkedIn</strong></a>
+        <a href="https://www.instagram.com/zoe_zhao17"><strong>Instagram</strong></a>
+        <a href="https://soundcloud.com/you/tracks"><strong>SoundCloud</strong></a>
+        <a href="https://github.com/tianshu-z"><strong>GitHub</strong></a>
+      </div>
+      <p><strong>Email</strong> | tianshu[dot]zhao17[at]gmail[dot]com</p>
+      <div class="podcast-container">
+        <div class="podcast-section">
+          <p><span class="podcast-title"><strong>北雍评论 The Beiyong Podcast</strong></span>
+            <li><a href="https://www.xiaoyuzhoufm.com/podcast/654f26aa500b3ef49a4d30fe">小宇宙</a></li>
+            <li><a href="https://podcasts.apple.com/us/podcast/%E5%8C%97%E9%9B%8D%E8%AF%84%E8%AE%BA/id1797056304">Apple Podcast</a></li>
+          </p>
+        </div>
+        <div class="podcast-images">
+          <img src="img/北雍评论-logo.jpeg" alt="Podcast Image 1">
+          <img src="img/北雍读书-logo.jpg" alt="Podcast Image 2">
+        </div>
+      </div>
+    </footer>
   </body>
 </html>

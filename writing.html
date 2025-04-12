@@ -1,61 +1,261 @@
----
-layout: default
----
-
-
 <!doctype html>
+<html lang="en">
+  <head>
+    <title>WRITING | TIANSHU ZHAO</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore Tianshu Zhao's writings on technology, arts, and culture.">
+    <meta name="keywords" content="Tianshu Zhao, writing, articles, technology, arts, culture">
+    <meta name="author" content="Tianshu Zhao">
+    <meta name="robots" content="index, follow">
+    <style>
+      :root {
+        --text-color: #333;
+        --bg-color: white;
+        --link-color: #666;
+      }
 
-<html>
-  <h2>WRITING</h2>
-  <br>
+      body {
+        font-family: 'Helvetica Neue', Arial, sans-serif;
+        line-height: 1.6;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background: var(--bg-color);
+        color: var(--text-color);
+        font-size: 14px;
+      }
+
+      .nav-menu {
+        margin: 20px 0 40px;
+        font-size: 16px;
+      }
+
+      .nav-menu a {
+        margin-right: 20px;
+        text-decoration: none;
+        color: var(--link-color);
+      }
+
+      .nav-menu a.current {
+        color: #000;
+        font-weight: bold;
+      }
+
+      .section {
+        margin: 30px 0;
+      }
+
+      .category-section {
+        margin-bottom: 40px;
+      }
+
+      .category-title {
+        font-size: 1.5em;
+        color: #000;
+        margin: 30px 0 15px;
+        font-weight: bold;
+      }
+
+      .article-item {
+        margin-bottom: 15px;
+      }
+
+      .article-link {
+        color: #4770b7;
+        text-decoration: underline;
+        font-weight: normal;
+      }
+
+      .article-info {
+        color: var(--text-color);
+        margin-left: 5px;
+      }
+
+      .article-info a {
+        color: var(--text-color);
+        text-decoration: underline;
+      }
+
+      .article-info::before {
+        content: "| ";
+        margin: 0 5px;
+        color: var(--text-color);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --text-color: #f0f0f0;
+          --bg-color: #1a1a1a;
+          --link-color: #999;
+        }
+        
+        .nav-menu a.current {
+          color: #fff;
+        }
+
+        .category-title {
+          color: #fff;
+        }
+
+        .article-link {
+          color: #6495ED;
+        }
+      }
+    </style>
+  </head>
   
-	<body>
-	
-<h2>ARTICLES</h2>
-  
-<p><a href = "https://yalemaquette.com/All-Connected">ALL CONNECTED</a> | featured on <a href = "https://yalemaquette.com/">MAQUETTE</a> magazine by Yale <a href = "https://ccam.yale.edu/">CCAM</a></p>
-		
-<p><a href = "https://mp.weixin.qq.com/s/ZCAb8XYJtuYGIF2Qg9GflQ">新型冠状病毒(2019-nCoV)疫情，防护口罩选用常见问题及答复</a> | featued on 中华预防医学会微平台</p>
+  <body>
+    <header>
+      <nav class="nav-menu">
+        <a href="/">Home</a>
+        <a href="/biography.html">Biography</a>
+        <a href="/work.html">Work</a>
+        <a href="/writing.html" class="current">Writing</a>
+      </nav>
+    </header>
 
-<p><a href = "https://mp.weixin.qq.com/s/XUo0QyHNLS_9bAxwuknN4Q">西方戏剧建筑趣谈之一：细数剧场舞台的类型</a> | featued on 保利剧院订阅号</p>
-		
-<h2>PLAYS</h2>
-  
-<p>I FEEL THE FEELING OF A RUN-OVER DOG | <em>working</em></p>
-		
-<p>老小姐钓鱼 FISHING LADY | <em>one-act</em></p>
-		
-<p>心经 CONUNDRUM (adapted from Eileen Chang's novel) | <em>full</em></p>
+    <main>
+      <div class="section">
+        <h2>WRITING</h2>
+        
+        <div class="category-section">
+          <h2 class="category-title">ESSAYS</h2>
+          <div class="article-item">
+            <a href="https://mings.substack.com/p/is-ai-depin-really-a-viable-thing" class="article-link">Is AI DePin Really a Viable Thing?</a>
+          </div>
+          <div class="article-item">
+            <a href="https://mings.substack.com/p/will-knowledge-base-and-gnn-remain" class="article-link">Will Knowledge Base and GNN Remain Relevant in the Age of LLM?</a>
+          </div>
+          <div class="article-item">
+            <a href="https://mp.weixin.qq.com/s/8c9bhX2C_57PsKdx1zNjsw" class="article-link">从数据看NFT市场中的洗售交易 (Wash Trade)</a>
+            <span class="article-info">published on Puzzle Ventures</span>
+          </div>
+          <div class="article-item">
+            <a href="https://mp.weixin.qq.com/s/VvwkjMlYQrzh4JXnu_aYSQ" class="article-link">为什么需要「共识层ZK化」？</a>
+            <span class="article-info">published on Puzzle Ventures</span>
+          </div>
+          <div class="article-item">
+            <a href="https://book.yunzhan365.com/uukhf/njmm/mobile/index.html" class="article-link">剧院4.0的可能性</a>
+            <span class="article-info">published on 《保利文化二十周年文集：我与保利文化共成长》</span>
+          </div>
+          <div class="article-item">
+            <a href="https://meteoritelabs.substack.com/p/optimizing-amm-whos-benefiting-and" class="article-link">Optimizing AMM: Who's Benefiting and Who's Hurting?</a>
+            <span class="article-info">published on Meteorite Labs</span>
+          </div>
+          <div class="article-item">
+            <a href="https://mp.weixin.qq.com/s/uCobrVbQLwVoWCtrdsMFQQ" class="article-link">设计系列一：战时苏黎世和达达主义剧场</a>
+            <span class="article-info">featured on 保利剧院订阅号</span>
+          </div>
+          <div class="article-item">
+            <a href="https://mp.weixin.qq.com/s/eQ4Z_q9k0N18-ebb2tGkoQ" class="article-link">设计系列二：包豪斯风格与奥斯卡·施莱默的芭蕾</a>
+            <span class="article-info">featured on 保利剧院订阅号</span>
+          </div>
+          <div class="article-item">
+            <a href="https://mp.weixin.qq.com/s/gZGjdS6yNQQVOXt3TEqQyA" class="article-link">设计系列三：怎么就极简了？</a>
+            <span class="article-info">featured on 保利剧院订阅号</span>
+          </div>
+          <div class="article-item">
+            <a href="https://mp.weixin.qq.com/s/jVQysNxNZtWLTtkSGjQIUQ" class="article-link">设计系列四：与机器共同创作 —— 衍生设计 (艺术)</a>
+            <span class="article-info">featured on 保利剧院订阅号</span>
+          </div>
+          <div class="article-item">
+            <a href="https://mp.weixin.qq.com/s/ZCAb8XYJtuYGIF2Qg9GflQ" class="article-link">新型冠状病毒(2019-nCoV)疫情，防护口罩选用常见问题及答复</a>
+            <span class="article-info">featured on 中华预防医学会微平台</span>
+          </div>
+          <div class="article-item">
+            <a href="https://mp.weixin.qq.com/s/XUo0QyHNLS_9bAxwuknN4Q" class="article-link">西方戏剧建筑趣谈之一：细数剧场舞台的类型</a>
+            <span class="article-info">featured on 保利剧院订阅号</span>
+          </div>
+          <div class="article-item">
+            <a href="https://mp.weixin.qq.com/s/bwN5tXpe1PBCKmdtWzpE5A" class="article-link">西方戏剧建筑趣谈之二：剧院建筑历史</a>
+            <span class="article-info">featured on 保利剧院订阅号</span>
+          </div>
+          <div class="article-item">
+            <a href="https://mp.weixin.qq.com/s/sMJpglFFFs1Wqz9LsdXczw" class="article-link">西方戏剧建筑趣谈之三：现代剧场建筑设计</a>
+            <span class="article-info">featured on 保利剧院订阅号</span>
+          </div>
+          <div class="article-item">
+            <a href="https://yalemaquette.com/All-Connected" class="article-link">ALL CONNECTED</a>
+            <span class="article-info">featured on <a href="https://yalemaquette.com/">MAQUETTE</a> magazine by Yale <a href="https://ccam.yale.edu/">CCAM</a></span>
+          </div>
+        </div>
 
-<p>THE SECOND GIRL: OR BOBA, MILK, TEA | <em>full</em></p>
+        <div class="category-section">
+          <h2 class="category-title">PLAYS</h2>
+          <div class="article-item">
+            <span>I FEEL THE FEELING OF A RUN-OVER DOG</span>
+            <span class="article-info">working</span>
+          </div>
+          <div class="article-item">
+            <span>老小姐钓鱼 FISHING LADY</span>
+            <span class="article-info">one-act</span>
+          </div>
+          <div class="article-item">
+            <span>心经 CONUNDRUM (adapted from Eileen Chang's novel)</span>
+            <span class="article-info">full</span>
+          </div>
+          <div class="article-item">
+            <span>THE SECOND GIRL: OR BOBA, MILK, TEA</span>
+            <span class="article-info">full</span>
+          </div>
+          <div class="article-item">
+            <span>谁坐在那儿？WHO'S SITTING THERE?</span>
+            <span class="article-info">full</span>
+          </div>
+          <div class="article-item">
+            <span>WHATEVER HELPS YOU SLEEP AT NIGHT</span>
+            <span class="article-info">one-act</span>
+          </div>
+          <div class="article-item">
+            <span>A MALCOLM'S NIGHTMARE</span>
+            <span class="article-info">one-act</span>
+          </div>
+          <div class="article-item">
+            <span>IT COMES A FULL CIRCLE</span>
+            <span class="article-info">ten-minute</span>
+          </div>
+          <div class="article-item">
+            <span>MIND OVER MATTER</span>
+            <span class="article-info">ten-minute</span>
+          </div>
+        </div>
 
-<p>谁坐在那儿？WHO’S SITTING THERE? | <em>full</em></p>
+        <div class="category-section">
+          <h2 class="category-title">FILMS</h2>
+        </div>
 
-<p>WHATEVER HELPS YOU SLEEP AT NIGHT | <em>one-act</em></p>
+        <div class="category-section">
+          <h2 class="category-title">VIDEO GAMES</h2>
+          <div class="article-item">
+            <a href="https://zhuanlan.zhihu.com/p/368074753" class="article-link">BARD [1]: TANA, THE ORIGIN OF BLUE NILE</a>
+            <span class="article-info">a video game design</span>
+          </div>
+        </div>
 
-<p>A MALCOLM’S NIGHTMARE | <em>one-act</em></p>
-
-<p>IT COMES A FULL CIRCLE | <em>ten-minute</em></p>
-
-<p>MIND OVER MATTER | <em>ten-minute</em></p>
-
-<h2>FILMS</h2>
-
-<h2>VIDEO GAMES</h2>
-<p><a href = "https://zhuanlan.zhihu.com/p/368074753">BARD [1]: TANA, THE ORIGIN OF BLUE NILE</a> | <em>a video game design</em></p>
-
-<h2>ACADEMIC</h2>
-<p>A Trial-And-Error Journey of Theatre Architecture from 500 to 300 BCE: Partially Enveloping Theatron in Ancient Greek Theatre</p>
-
-<p>Who Is to Define Fairness: The Delicate Balance Between Fair Use and Copyright Protection in Light of First Amendment</p>
-
-<p>The Utilization of Vertical Space in Hayao Miyazaki's Anime Films: Connecting Physical and Metaphysical World</p>
-
-<p>To Boldly Imagine What No Man Has Built Before: A Digitally Transformed San Francisco</p>
-
-<p>The Spectrum of Nerdiness And Its Usage in Understanding the Intersection between Nerd Culture and Japanese Culture</p>
-
-<p>Controlled Emancipation: Understanding The Network in Theatre Spaces with Interactive/Responsive Media Design</p>
-
-	</body>
+        <div class="category-section">
+          <h2 class="category-title">ACADEMIC</h2>
+          <div class="article-item">
+            <span>A Trial-And-Error Journey of Theatre Architecture from 500 to 300 BCE: Partially Enveloping Theatron in Ancient Greek Theatre</span>
+          </div>
+          <div class="article-item">
+            <span>Who Is to Define Fairness: The Delicate Balance Between Fair Use and Copyright Protection in Light of First Amendment</span>
+          </div>
+          <div class="article-item">
+            <span>The Utilization of Vertical Space in Hayao Miyazaki's Anime Films: Connecting Physical and Metaphysical World</span>
+          </div>
+          <div class="article-item">
+            <span>To Boldly Imagine What No Man Has Built Before: A Digitally Transformed San Francisco</span>
+          </div>
+          <div class="article-item">
+            <span>The Spectrum of Nerdiness And Its Usage in Understanding the Intersection between Nerd Culture and Japanese Culture</span>
+          </div>
+          <div class="article-item">
+            <span>Controlled Emancipation: Understanding The Network in Theatre Spaces with Interactive/Responsive Media Design</span>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
 </html>
+
