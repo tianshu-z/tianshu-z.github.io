@@ -64,7 +64,11 @@
       .project-link {
         color: #4770b7;
         text-decoration: underline;
-        font-weight: normal;
+        font-weight: bold;
+      }
+
+      .project-name {
+        font-weight: bold;
       }
 
       .project-info {
@@ -96,6 +100,60 @@
         .project-link {
           color: #6495ED;
         }
+
+        .showcase-number {
+          background-color: #6495ED;
+        }
+
+        .showcase-number:hover {
+          background-color: #4169E1;
+        }
+      }
+
+      .showcase-links {
+        margin-left: 10px;
+        display: inline-block;
+      }
+
+      .showcase-number {
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: #4770b7;
+        color: white;
+        text-align: center;
+        line-height: 20px;
+        font-size: 11px;
+        font-weight: bold;
+        text-decoration: none;
+        margin-right: 4px;
+        transition: all 0.2s ease;
+      }
+
+      .showcase-number:hover {
+        background-color: #365a94;
+        transform: scale(1.1);
+        color: white;
+        text-decoration: none;
+      }
+
+      /* Responsive design for mobile devices */
+      @media (max-width: 600px) {
+        .project-item {
+          margin-bottom: 20px;
+        }
+        
+        .showcase-links {
+          display: block;
+          margin-left: 0;
+          margin-top: 8px;
+        }
+        
+        .showcase-number {
+          margin-right: 8px;
+          margin-bottom: 4px;
+        }
       }
     </style>
   </head>
@@ -113,95 +171,164 @@
     <main>
       <div class="section">
         <h2>WORK</h2>
-        
-        <div class="project-item" style="margin-bottom: 40px;">
-          <a href="/work/experiments.html" class="project-link">SOME EXPERIMENTS</a>
-        </div>
 
         <div class="year-section">
           <h2 class="year-title">2019</h2>
           <div class="project-item">
-            <a href="work/dance-with-machine-ieee.html" class="project-link">DANCE WITH MACHINE</a>
+            <span class="project-name">DANCE WITH MACHINE</span>
             <span class="project-info">developer, lead designer | New Haven, CT, US | June 21</span>
+            <span class="showcase-links">
+              <a href="https://youtu.be/-Rf4FCYrXPA?si=t_AWSCCu55-Yrv9g" class="showcase-number" target="_blank" title="Demo">1</a>
+              <a href="https://www.instagram.com/p/ByeSw9OhPWv/" class="showcase-number" target="_blank" title="Demo">2</a>
+              <a href="https://soundcloud.com/zoe-zhao-676421317/third-thursday-ravel-le-tombeau-de-couperin-06202019" class="showcase-number" target="_blank" title="Demo Video">3</a>
+              <a href="https://www.instagram.com/p/BzKOtFzhvW9/" class="showcase-number" target="_blank" title="Demo">4</a>
+            </span>
           </div>
           <div class="project-item">
-            <a href="work/mocap-anim-exp.html" class="project-link">A SERIES OF DANCE-MOCAP-ANIMATION EXPERIMENTS</a>
+            <span class="project-name">A KINECT EXPERIMENT - PIXEL MAPPING</span>
+            <span class="project-info">designer, developer | New Haven, CT, US | July</span>
+            <span class="showcase-links">
+              <a href="https://www.instagram.com/p/BjjHc4iHCMI/" class="showcase-number" target="_blank" title="Demo">1</a>
+            </span>
+          </div>
+          <div class="project-item">
+            <span class="project-name">A SERIES OF DANCE-MOCAP-ANIMATION EXPERIMENTS</span>
             <span class="project-info">developer | New Haven, CT, US | April - July</span>
+            <span class="showcase-links">
+              <a href="https://www.instagram.com/p/BxTL0pGDX3I/" class="showcase-number" target="_blank" title="Demo">1</a>
+              <a href="https://www.instagram.com/p/BzekOD1hymE/" class="showcase-number" target="_blank" title="Demo">2</a>
           </div>
           <div class="project-item">
-            <a href="https://soundcloud.com/zoe-zhao-676421317/sets/machine-or-i" class="project-link">machine-and-i</a>
+            <span class="project-name">machine-and-i</span>
             <span class="project-info">programmer, composer | an ongoing project from Mar</span>
+            <span class="showcase-links">
+              <a href="https://soundcloud.com/zoe-zhao-676421317/sets/machine-or-i" class="showcase-number" target="_blank" title="Sound">1</a>
+            </span>
           </div>
           <div class="project-item">
-            <a href="work/sign-in-the-six-oclock-sky.html" class="project-link">SIGN IN THE SIX O'CLOCK SKY</a>
+            <span class="project-name">SIGN IN THE SIX O'CLOCK SKY</span>
             <span class="project-info">lighting & projection designer | The Theater for the New City (Cino Theater), NYC, NY, US | Mar 14 - 31</span>
           </div>
           <div class="project-item">
-            <span>QUANTUM VOYAGES</span>
-            <span class="project-info">projection designer | Boston, MA, US | Mar 5</span>
+            <span class="project-name">AN AR EXPERIMENT - POLY TREE #UNITY #VUFORIA</span>
+            <span class="project-info">designer, developer | New Haven, CT, US | March</span>
+            <span class="showcase-links">
+              <a href="https://www.instagram.com/p/BprfZfBDPEd/" class="showcase-number" target="_blank" title="Demo">1</a>
+            </span>
           </div>
           <div class="project-item">
-            <a href="work/ARt.html" class="project-link">ClimARt</a>
+            <span class="project-name">ClimARt</span>
             <span class="project-info">developer | Yale Climate Change Hackathon, New Haven, CT, US | Feb 8-9</span>
+          </div>
+          <div class="project-item">
+            <span class="project-name">PAINTING GENERATOR #PROCESSING</span>
+            <span class="project-info">designer, developer | New Haven, CT, US | February</span>
+            <span class="showcase-links">
+              <a href="https://youtu.be/pCADBxAxBJk?si=FhAZyWL5OAGodlio" class="showcase-number" target="_blank" title="Demo">1</a>
+            </span>
+          </div>
+          <div class="project-item">
+            <span class="project-name">INTERACTIVE SOUND-GENERATING UNIVERSE #UNITY</span>
+            <span class="project-info">designer, developer | New Haven, CT, US | February</span>
+            <span class="showcase-links">
+              <a href="https://www.instagram.com/p/BtXjAKEDgTq/" class="showcase-number" target="_blank" title="Screenshot">1</a>
+            </span>
+          </div>
+          <div class="project-item">
+            <span class="project-name">INTERACTIVE COLOR GENERATOR #PROCESSING</span>
+            <span class="project-info">designer, developer | New Haven, CT, US | February</span>
+            <span class="showcase-links">
+              <a href="https://www.instagram.com/p/BtXkIzjjVUS/" class="showcase-number" target="_blank" title="Demo">1</a>
+            </span>
           </div>
         </div>
 
         <div class="year-section">
           <h2 class="year-title">2018</h2>
           <div class="project-item">
-            <a href="work/appointment-with-death.html" class="project-link">APPOINTMENT WITH DEATH</a>
+            <span class="project-name">APPOINTMENT WITH DEATH</span>
             <span class="project-info">projection designer | The Gallery Players, Brooklyn, NY, US | Dec 1 - 16</span>
+            <span class="showcase-links">
+              <a href="https://www.instagram.com/p/Bq3bSp4lnHS/" class="showcase-number" target="_blank" title="photos">1</a>
+            </span>
           </div>
           <div class="project-item">
-            <a href="work/the-water-project.html" class="project-link">THE WATER PROJECT</a>
+            <span class="project-name">THE WATER PROJECT</span>
             <span class="project-info">visual designer and programmer | New York, NY, US | Oct 26 & Nov 27</span>
+            <span class="showcase-links">
+              <a href="https://youtu.be/hyE9dEu7Nqg?si=cchn4FziKarnc9AJ" class="showcase-number" target="_blank" title="Demo">1</a>
+              <a href="https://youtu.be/f4ZI7EJ_XAM?si=oVXXhvJlElBULjqT" class="showcase-number" target="_blank" title="Demo">2</a>
+            </span>
           </div>
           <div class="project-item">
-            <a href=work/flying-tigers-flying-away.html" class="project-link">FLYING TIGERS FLYING AWAY</a>
+            <span class="project-name">FLYING TIGERS FLYING AWAY</span>
             <span class="project-info">visual designer (set, projection, lighting) | The York Theatre, New York, NY, US | Sep 4 - 7</span>
+            <span class="showcase-links">
+              <a href="https://www.playbillder.com/show/vip/Name_North_America_Maple_Culture_Center_Co_/2018/Flying_Tigers_Flying_Away_49395/page/2" class="showcase-number" target="_blank" title="Page">1</a>
+            </span>
           </div>
           <div class="project-item">
-            <a href=work/quantum-voyages.html" class="project-link">QUANTUM VOYAGES</a>
+            <span class="project-name">QUANTUM VOYAGES: A COLLABORATION BETWEEN THE PHYSICS AND THEATRE DEPARTMENTS AT ILLINOIS</span>
             <span class="project-info">projection designer | iHotel & Beckman Institute, Champaign-Urbana, IL, US | Mar 30 & Apr 4</span>
+            <span class="showcase-links">
+              <a href="https://www.instagram.com/p/Bg9jzr4gIKt/" class="showcase-number" target="_blank" title="Institute Page">1</a>
+            </span>
           </div>
           <div class="project-item">
-            <a href=work/hashtag-like.html" class="project-link">#LIKE</a>
+            <span class="project-name">#LIKE</span>
             <span class="project-info">projection designer | Armory Theatre, Champaign-Urbana, IL, US | Mar 8-14</span>
+            <span class="showcase-links">
+              <a href="https://youtu.be/uu_wDADiKqk?si=Pe6U7njF6N4ksaj0" class="showcase-number" target="_blank" title="Projection">1</a>
+            </span>
           </div>
           <div class="project-item">
-            <a href=work/a-well-2.0.html" class="project-link">A WELL 2.0</a>
+            <span class="project-name">A MOTION-TRACKING EXPERIMENT #JITTER</span>
+            <span class="project-info">designer, developer | Urbana, IL, US | March</span>
+            <span class="showcase-links">
+              <a href="https://github.com/your-username/motion-tracking-jitter" class="showcase-number" target="_blank" title="Max/MSP Patches">1</a>
+              <a href="https://youtu.be/your-demo-id" class="showcase-number" target="_blank" title="Motion Demo">2</a>
+            </span>
+          </div>
+          <div class="project-item">
+            <span class="project-name">A WELL 2.0</span>
             <span class="project-info">director/projection designer | Chicago Rhinoceros Theatre Festival, Chicago, IL, US | Jan 21</span>
+            <span class="showcase-links">
+              <a href="https://youtu.be/1CoA_LfC-YM?si=sQOzCUR2N-RMI74_" class="showcase-number" target="_blank" title="Trailer">1</a>
+            </span>
           </div><!-- Add 2018 projects with the same structure -->
         </div>
 
         <div class="year-section">
           <h2 class="year-title">2017</h2>
           <div class="project-item">
-            <a href="work/to-the-moon.html" class="project-link">TO THE MOON: A DARK RIDE</a>
-            <span class="project-info">concept design | Nov-Dec</span>
+            <span class="project-name">TO THE MOON: A DARK RIDE</span>
+            <span class="project-info">a  theme park ride, concept design | Nov-Dec</span>
           </div>
           <div class="project-item">
-            <a href="work/a-well-1.0.html" class="project-link">A WELL 1.0</a>
+            <span class="project-name">A WELL 1.0</span>
             <span class="project-info">director/projection designer | Armory Theatre, Champaign-Urbana, IL, US | Dec 8 & 9</span>
           </div>
           <div class="project-item">
-            <a href="https://krannertcenter.com/sites/krannertcenter.com/files/1718_KCPAprogram_Theatre_Travesties_FINALWEB.pdf" class="project-link">TRAVESTIES</a>
+            <span class="project-name">TRAVESTIES</span>
             <span class="project-info">dramaturg | Cowell Playhouse at Krannert Center for the Performing Arts, Champaign-Urbana, IL, US | Oct 19-29</span>
           </div>
           <div class="project-item">
-            <a href="work/a-void.html" class="project-link">A VOID: A LIGHTING SCULPTURE</a>
+            <span class="project-name">A VOID: A LIGHTING SCULPTURE</span>
             <span class="project-info">visual designer | Oct</span>
           </div>
           <div class="project-item">
-            <a href="work/the-flute-battle.html" class="project-link">THE FLUTE BATTLE: A SITE-SPECIFIC DANCE INSTALLATION</a>
+            <span class="project-name">THE FLUTE BATTLE: A SITE-SPECIFIC DANCE INSTALLATION</span>
             <span class="project-info">concept design - visual & sound | Roger Adams Lab, UIUC, IL, US | Oct</span>
           </div>
           <div class="project-item">
-            <a href="work/ddc-convergence.html" class="project-link">CONVERGENCE: AN EVENING OF DANCE*MUSIC*VOICE</a>
+            <span class="project-name">CONVERGENCE: AN EVENING OF DANCE*MUSIC*VOICE</span>
             <span class="project-info">lighting designer | Joffrey Tower, Chicago, IL. US | Apr 30</span>
+            <span class="showcase-links">
+              <a href="https://youtu.be/iriAY_WxIGQ?si=u3H1kfPmHOkh0Jvq" class="showcase-number" target="_blank" title="Projection">1</a>
+            </span>
           </div>
           <div class="project-item">
-            <a href="work/the-cage.html" class="project-link">THE CAGE</a>
+            <span class="project-name">THE CAGE</span>
             <span class="project-info">director | Armory Theatre, Champaign-Urbana, IL, US | Mar 31 & Apr 1</span>
           </div>
         </div>
@@ -209,32 +336,35 @@
         <div class="year-section">
           <h2 class="year-title">2015</h2>
           <div class="project-item">
-            <a href="work/kunopera-meng.html" class="project-link">MENG: A SHORT DOCUMENTARY 昆曲-梦中之情，何必非真</a>
-            <span class="project-info">video editing | Kun Opera Colloquial at Peking University, Beijing, China | May</span>
+            <span class="project-name">昆曲-梦中之情，何必非真</span>
+            <span class="project-info">制作 | 北京大学昆曲课 | May</span>
+            <span class="showcase-links">
+              <a href="https://youtu.be/HqYOTCaEDWU?si=qKsrGDcgC6uYHWVU" class="showcase-number" target="_blank" title="Video">1</a>
+            </span>
           </div>
           <div class="project-item">
-            <span>CLASS OF 2011 GRADUATION VIDEO</span>
-            <span class="project-info">director, photography, editing | College of Life Sciences at Peking University, Beijing, China | May</span>
+            <span class="project-name">2011届毕业视频</span>
+            <span class="project-info">协作 | 北京大学, 生命科学学院 | May</span>
           </div>
         </div>
 
         <div class="year-section">
           <h2 class="year-title">2012</h2>
           <div class="project-item">
-            <span>2012 NEW YEAR EVE GALA OPENING VIDEO</span>
-            <span class="project-info">director/photographer | College of Life Sciences at Peking University | Jan 1</span>
+            <span class="project-name">2012 新春联欢开场视频</span>
+            <span class="project-info">协作 | 北京大学, 生命科学学院 | Jan 1</span>
           </div>
           <div class="project-item">
-            <span>SEVEN ORBS TO LOVE</span>
-            <span class="project-info">director/photographer | 2012 New Year Eve Gala, College of Life Sciences at Peking University | Jan 1</span>
+            <span class="project-name">“七龙珠”</span>
+            <span class="project-info">协作 | 北京大学，生命科学学院 | Jan 1</span>
           </div>
         </div>
 
         <div class="year-section">
           <h2 class="year-title">2011</h2>
           <div class="project-item">
-            <span>129 CONCERT OPENING VIDEO FOR COLLEGE OF LIFE SCIENCES</span>
-            <span class="project-info">photographer | Peking University | Dec 7</span>
+            <span class="project-name">129歌咏比赛生命科学学院开场视频</span>
+            <span class="project-info">协作 | 北京大学 | Dec 7</span>
           </div>
         </div>
       </div>
